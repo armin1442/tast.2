@@ -1,0 +1,5 @@
+name = input("enter your name:")
+family = input("enter your family:")
+city = input("enter your city")
+age = input)("enter your age")
+print(name,family,city,age)
